@@ -1,0 +1,6 @@
+led_display.c:5:6:clearLED	8	static
+led_display.c:12:6:display7SEG_VALUE	16	static
+led_display.c:56:6:display7SEG_MODE	16	static
+led_display.c:103:6:update7SEG_MODE	24	static
+led_display.c:126:6:update7SEG_VALUE	24	static
+led_display.c:149:6:mode1_normal	8	static
